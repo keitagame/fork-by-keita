@@ -1,2 +1,4 @@
 # fork-by-keita
-this repository is firefox fork
+こんにちはkeitaです
+私はブラウザを作りたいのでfirefoxをフォークしました
+よかったら見ていってください
